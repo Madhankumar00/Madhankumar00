@@ -2,7 +2,6 @@
 
 ### 🔭 About Me
 - 🚀 Recently completed my **MERN Stack Developer Internship** at Tutor Techno Solution.
-- 🛠️ Currently building a **Real-Time Multi-User Text Editor** using **WebRTC** and **CRDTs** for data consistency.
 - 🌱 I’m currently deep-diving into **Distributed Systems**, **Agentic AI**, and **DSA**.
 - 📈 Active Problem Solver with **[400+ problems solved on LeetCode](https://leetcode.com/u/MadhankumarS0/)**.
 

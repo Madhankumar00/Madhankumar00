@@ -1,7 +1,10 @@
 # Hey 👋 I'm Madhan Kumar S
 
-About me:
-I am looking for Software Development Engineering Role
+### 🔭 About Me
+- 🚀 Recently completed my **MERN Stack Developer Internship** at Tutor Techno Solution.
+- 🛠️ Currently building a **Real-Time Multi-User Text Editor** using **WebRTC** and **CRDTs** to solve data consistency challenges.
+- 🌱 I’m currently deep-diving into **Distributed Systems** and **Agentic AI workflows**.
+- 📈 Solved **400+ problems on LeetCode**, focusing on advanced Data Structures and Algorithms.
 
 ---
 ### 🤝 Connect with me

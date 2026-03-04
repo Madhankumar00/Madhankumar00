@@ -2,12 +2,20 @@
 
 ### 🔭 About Me
 - 🚀 Recently completed my **MERN Stack Developer Internship** at Tutor Techno Solution.
-- 🌱 I’m currently deep-diving into **Distributed Systems** and **DSA**.
+- 🛠️ Currently building a **Real-Time Multi-User Text Editor** using **WebRTC** and **CRDTs** for data consistency.
+- 🌱 I’m currently deep-diving into **Distributed Systems**, **Agentic AI**, and **DSA**.
 - 📈 Active Problem Solver with **[400+ problems solved on LeetCode](https://leetcode.com/u/MadhankumarS0/)**.
+- ---
+  ### 💡 Personal Highlights
+- 🎯 **Career Goal:** Aiming for **SDE-1** roles at product-based companies.
+- 📅 **Consistency Goal:** Currently on a mission to achieve a **365-day Max Streak on LeetCode**.
+
 ---
+
 ### 🤝 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/s-madhan-kumar)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/MadhankumarS0/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smadhankumar9597@gmail.com)
 
 ---
@@ -27,11 +35,3 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-BCBCBC?style=for-the-badge&logo=github&logoColor=black)
 
 ---
-
-
-
-
-
-### 💡 Personal Highlights
-- 🎯 **Career Goal:** Aiming for **SDE-1** roles at product-based companies.
-- 💬 **Ask me about:** MERN stack, real-time sync with Socket.io/WebRTC, and geopolitics.

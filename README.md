@@ -2,7 +2,7 @@
 
 ### 🔭 About Me
 - 🚀 Recently completed my **MERN Stack Developer Internship** at Tutor Techno Solution.
-- 🌱 I’m currently deep-diving into **Distributed Systems**, **Agentic AI**, and **DSA**.
+- 🌱 I’m currently deep-diving into **Distributed Systems**, and **DSA**.
 - 📈 Active Problem Solver with **[400+ problems solved on LeetCode](https://leetcode.com/u/MadhankumarS0/)**.
 
 ### 💡 Personal Highlights

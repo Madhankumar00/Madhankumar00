@@ -1,12 +1,13 @@
 # Hey 👋 I'm Madhan Kumar S
 
-I'm a **Software Engineer** and **Full-Stack Developer** specializing in building high-performance web applications and real-time distributed systems.
+About me:
+I am looking for Software Development Engineering Role
 
-- 🛠️ **Real-Time Collaboration:** Currently building a **Multi-User Text Editor** using **WebRTC** and **CRDTs**.
-- 🤖 **AI Automation:** Developing agentic workflows using **n8n** and **Google Gemini API**.
-- 🚀 **Full-Stack Focus:** Deep expertise in the **MERN stack** and scalable system architecture.
-- 📈 **Problem Solving:** Solved **400+ problems on LeetCode**.
-- 💼 **Experience:** Former **MERN Stack Developer Intern** at Tutor Techno Solution.
+---
+### 🤝 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/s-madhan-kumar)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smadhankumar9597@gmail.com)
 
 ---
 
@@ -26,12 +27,9 @@ I'm a **Software Engineer** and **Full-Stack Developer** specializing in buildin
 
 ---
 
-### 🤝 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/s-madhan-kumar)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smadhankumar9597@gmail.com)
 
----
+
 
 ### 💡 Personal Highlights
 - 🎯 **Career Goal:** Aiming for **SDE-1** roles at product-based companies.

@@ -3,7 +3,7 @@
 ### 🔭 About Me
 - 🚀 Recently completed my **MERN Stack Developer Internship** at Tutor Techno Solution.
 - 🛠️ Currently building a **Real-Time Multi-User Text Editor** using **WebRTC** and **CRDTs** to solve data consistency challenges.
-- 🌱 I’m currently deep-diving into **Distributed Systems** and **Agentic AI workflows**.
+- 🌱 I’m currently deep-diving into **Distributed Systems**.
 - 📈 Solved **400+ problems on LeetCode**, focusing on advanced Data Structures and Algorithms.
 
 ---

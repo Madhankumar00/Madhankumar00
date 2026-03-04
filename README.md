@@ -2,7 +2,7 @@
 
 ### 🔭 About Me
 - 🚀 Recently completed my **MERN Stack Developer Internship** at Tutor Techno Solution.
-- 🌱 I’m currently deep-diving into **Distributed Systems**.
+- 🌱 I’m currently deep-diving into **Distributed Systems** and **DSA**.
 - 📈 Active Problem Solver with **[400+ problems solved on LeetCode](https://leetcode.com/u/MadhankumarS0/)**.
 ---
 ### 🤝 Connect with me

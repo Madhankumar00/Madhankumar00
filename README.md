@@ -1,38 +1,38 @@
 # Hey 👋 I'm Madhan Kumar S
 
-I'm a **Software Engineer** and **Full-Stack Developer** based in India, specializing in building high-performance web applications and real-time distributed systems.
+I'm a **Software Engineer** and **Full-Stack Developer** specializing in building high-performance web applications and real-time distributed systems.
 
-- 🛠️ **Real-Time Collaboration:** Currently building a **Multi-User Text Editor** using **WebRTC** and **CRDTs** for seamless data consistency.
-- 🤖 **AI Automation:** Developing agentic workflows using **n8n** and **Google Gemini API** for recruitment automation.
-- 🚀 **Full-Stack Focus:** Experienced in the **MERN stack**, building scalable and responsive web solutions.
-- 📈 **Problem Solving:** Solved **400+ problems on LeetCode**, focusing on advanced algorithms and data structures.
-- 💼 **Professional Experience:** Former **MERN Stack Developer Intern** at Tutor Techno Solution.
+- 🛠️ **Real-Time Collaboration:** Currently building a **Multi-User Text Editor** using **WebRTC** and **CRDTs**.
+- 🤖 **AI Automation:** Developing agentic workflows using **n8n** and **Google Gemini API**.
+- 🚀 **Full-Stack Focus:** Deep expertise in the **MERN stack** and scalable system architecture.
+- 📈 **Problem Solving:** Solved **400+ problems on LeetCode**.
+- 💼 **Experience:** Former **MERN Stack Developer Intern** at Tutor Techno Solution.
 
 ---
 
-### 🛠️ Technical Stack
+### 🛠️ Technical Stack (Optimized for Dark Theme)
 
 #### 🌐 Frontend & Design
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 #### ⚙️ Backend & APIs
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![REST API](https://img.shields.io/badge/REST-API-005571?style=for-the-badge&logo=google-cloud&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-828282?style=for-the-badge&logo=express&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=google-cloud&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 #### 🗄️ Database Management
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### 💻 Programming & Tools
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### 💡 Personal Highlights
-
-- 🎯 **Career Goal:** Aiming for **SDE-1** roles at product-based companies (FAANG/Tier-1).
-- 💬 **Ask me about:** MERN stack architecture, real-time sync with Socket.io/WebRTC, and geopolitics.
-- 🌍 **Perspective:** Strong advocate for **Strategic Autonomy** and Indian geopolitical strategy.
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-BCBCBC?style=for-the-badge&logo=github&logoColor=black)
 
 ---
 
 ### 🤝 Connect with me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/s-madhan-kumar)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/s-madhan-kumar)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smadhankumar9597@gmail.com)
+
+---
+
+### 💡 Personal Highlights
+- 🎯 **Career Goal:** Aiming for **SDE-1** roles at product-based companies.
+- 💬 **Ask me about:** MERN stack, real-time sync with Socket.io/WebRTC, and geopolitics.
